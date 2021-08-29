@@ -1,0 +1,50 @@
+body{
+   
+}
+.navbar{
+    background-color:  #ec5b08;
+    
+}
+.btn{
+  background-color: #ec5b08;  
+}
+    
+    
+
+main{
+    margin-left: 180px;
+    margin-top: 50px;
+}
+main,h1,h3{
+    color:#ec5b08 
+}
+footer{
+background-color:  #ec5b08;
+left: 0px;
+top: 780px;
+
+
+}
+.foot{
+    display: flex;
+}
+.afastafooter{
+    margin-left: 150px;
+}
+footer,h5,p,svg{
+    color:white
+}
+
+.senha{
+    
+    margin-bottom: 20px;
+}
+.ajustar{
+    margin-left: 70px;
+}
+.ajustar1{
+    margin-left: 15px;
+}
+#bairro{
+    width: 345px;
+}
